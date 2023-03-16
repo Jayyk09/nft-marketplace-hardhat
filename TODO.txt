@@ -1,0 +1,2 @@
+1. clean scripts for unnecessary and try once again the old code
+2. WRITE TESTS!!
